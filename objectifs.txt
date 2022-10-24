@@ -1,0 +1,8 @@
+-lire le CSV
+-extraire les données
+-parsing
+	-nettoyages	
+		-supprimer toutes les lignes avec au moins une cellule vide
+		-supprimer des colonnes A/D/E/F/G
+	-fichier de sortie clean.csv
+	-regroupement par organisation 
