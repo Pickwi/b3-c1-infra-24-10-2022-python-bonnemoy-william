@@ -1,5 +1,5 @@
 
-1 brian = "Hello life!"
+1	brian = "Hello life!"
 
 2	caesar ="Graham"
 	praline ="John"
@@ -13,3 +13,17 @@
 4   fifth_letter = "MONTY"[4]
 
 	print fifth_letter
+	
+5 	parrot = "Norwegian Blue"
+	print len(parrot)
+
+6	parrot = "Norwegian Blue"
+	print parrot.lower()	
+
+7	parrot = "norwegian blue"
+	print parrot.upper()
+
+8	pi=3.14
+	print str(pi)
+
+9	
