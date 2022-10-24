@@ -1,0 +1,42 @@
+2  print "Hello "+"les cop1"
+
+3print("How do you make a hot dog stand?")
+print("You take away its chair!")
+
+4 todays_date = "24/10/2022"
+message = "nous sommes le "
+print message+todays_date
+
+5 product =2*5
+print product
+
+6 product =2*5
+print product
+remainder =1398%11
+print remainder
+
+7 annual_rainfall=annual_rainfall+september_rainfall+october_rainfall+november_rainfall+december_rainfall
+print annual_rainfall
+
+8  city_name = "St. Potatosburg"
+	city_pop = 340000 # population de la ville
+
+9  cucumbers = 1
+price_per_cucumber= 3.25
+total_cost=cucumbers*price_per_cucumber
+print total_cost
+
+10 cucumbers =100
+num_people =6
+whole_cucumbers_per_person=cucumbers/num_people
+print whole_cucumbers_per_person
+float_cucumbers_per_person= float(cucumbers)/num_people
+print float_cucumbers_per_person
+
+
+11 haiku= """The old pond,
+A frog jumps in:
+Plop!"""
+
+12 age_is_12=False
+name_is_maria=True
