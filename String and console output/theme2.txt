@@ -39,4 +39,15 @@
 
 13	print "The value of pi is around " + str(3.14)
 
-14	
+14	print "Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)
+
+15 	name = "Alex"
+	quest = "Teaching Python"
+	color = "Blue"
+
+	print "Ah, so your name is %s, your quest is %s, " \
+	"and your favorite color is %s." % (name, quest, color)
+	
+16 	my_string ="c nous les mecs de cite"
+	print len(my_string)
+	print my_string.upper()
