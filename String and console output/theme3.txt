@@ -1,0 +1,14 @@
+1
+print "Pig Latin"
+
+2
+original=raw_input("Enter a word: ")
+
+3
+
+4
+original=raw_input("Enter a word: ")
+if len(original)>0:
+  print "not empty"
+else :
+  print "empty"
