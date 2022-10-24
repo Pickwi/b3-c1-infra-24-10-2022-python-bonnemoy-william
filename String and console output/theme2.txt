@@ -1,0 +1,15 @@
+
+1 brian = "Hello life!"
+
+2	caesar ="Graham"
+	praline ="John"
+	viking ="Teresa"
+	print caesar
+	print praline
+	print viking
+	
+3   'There\'s a snake in my boot!'
+
+4   fifth_letter = "MONTY"[4]
+
+	print fifth_letter
